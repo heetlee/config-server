@@ -1,4 +1,4 @@
 spring:
   profiles: local
 
-maintenance: true
+maintenance: false
